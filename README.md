@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3467-transform-array-by-parity) |
 ## Simulation
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2373-largest-local-values-in-a-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
