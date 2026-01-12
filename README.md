@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2942-find-words-containing-character) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Math
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
