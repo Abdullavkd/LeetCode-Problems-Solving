@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
