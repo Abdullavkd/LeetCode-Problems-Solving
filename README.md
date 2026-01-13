@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2574-left-and-right-sum-differences) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
