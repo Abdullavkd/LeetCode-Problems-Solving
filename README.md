@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1859-sorting-the-sentence) |
 | [2942-find-words-containing-character](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1859-sorting-the-sentence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3467-transform-array-by-parity) |
 ## Counting
