@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0014-longest-common-prefix) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1534-count-good-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1534-count-good-triplets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0014-longest-common-prefix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1859-sorting-the-sentence) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1534-count-good-triplets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
