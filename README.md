@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1313-decompress-run-length-encoded-list](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1389-create-target-array-in-the-given-order) |
+| [1534-count-good-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1534-count-good-triplets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
