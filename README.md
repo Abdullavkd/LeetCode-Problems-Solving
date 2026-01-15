@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1859-sorting-the-sentence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0013-roman-to-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
