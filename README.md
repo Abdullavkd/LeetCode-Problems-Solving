@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1528-shuffle-string](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1528-shuffle-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
