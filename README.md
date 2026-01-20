@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1534-count-good-triplets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2367-number-of-arithmetic-triplets) |
