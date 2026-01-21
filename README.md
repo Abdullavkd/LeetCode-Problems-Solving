@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3285-find-indices-of-stable-mountains) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1859-sorting-the-sentence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
