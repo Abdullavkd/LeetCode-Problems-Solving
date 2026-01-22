@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2574-left-and-right-sum-differences) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Matrix
