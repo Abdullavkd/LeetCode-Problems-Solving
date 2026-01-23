@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1991-find-the-middle-index-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/1859-sorting-the-sentence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2942-find-words-containing-character](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2942-find-words-containing-character) |
 ## Sorting
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdullavkd/LeetCode-Problems-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
